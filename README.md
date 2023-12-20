@@ -12,6 +12,8 @@
 
 <h2> Other interests:</h2>
 <img src="https://scontent-den4-1.xx.fbcdn.net/v/t1.6435-9/198590438_4243533525712232_498004515905187159_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=300f58&_nc_ohc=iWCi894bdjkAX_feO4Y&_nc_ht=scontent-den4-1.xx&oh=00_AfA6hAzeuRDyCMIfnpoDzH0BPCLNr1hO-t24T5VMMliz8Q&oe=65A9A976" alt="dog in the mountains">  
-Hiking with my doggies<br>
-Fitness classes<br>
-Cooking<br>
+<ul>
+  <li>Hiking with my doggies</li>
+<li>Fitness classes</li>
+<li>Cooking</li>
+</ul>
