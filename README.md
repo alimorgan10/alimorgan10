@@ -1,19 +1,20 @@
-<h1>Hi, I'm Ali!</h1> 
+<h1>Hi, I'm Ali, an <a href="https://linkedin.com/in/JaneDoe">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Projects:</h2>
-<a href="https://www.youtube.com/watch?v=a83ASGn_V_s](https://www.youtube.com/watch?v=MHsI8hJmggI&list=PLqBeiU46hx1H--SNfTrohTOWeqkK-M2Y0&index=1">[Active Driectory Home Lab]</a>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-<h2> Certifications: </h2>
-<a href="">[A+]</a><br>
-<a href="">[Network+]</a><br>
-<a href="">[Security+]</a><br>
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳Connect with me:</h2>
 
-<h2> Other interests:</h2>
-<img src="https://scontent-den4-1.xx.fbcdn.net/v/t1.6435-9/198590438_4243533525712232_498004515905187159_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=300f58&_nc_ohc=iWCi894bdjkAX_feO4Y&_nc_ht=scontent-den4-1.xx&oh=00_AfA6hAzeuRDyCMIfnpoDzH0BPCLNr1hO-t24T5VMMliz8Q&oe=65A9A976" alt="dog in the mountains">  
-<ul>
-  <li>Hiking with my doggies</li>
-<li>Fitness classes</li>
-<li>Cooking</li>
-</ul>
+[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/Jane
+[instagram]: https://www.instagram.com/Jane
+[linkedin]: https://linkedin.com/in/Jane
