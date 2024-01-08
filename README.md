@@ -12,8 +12,8 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Ali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ali | LinkedIn" width="22px" src="https://www.linkedin.com/in/alexandria-morgan-252a8b29a/" />][linkedin]
 [<img align="left" alt="Ali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/Ali
-[linkedin]: https://linkedin.com/in/Ali
+[linkedin]: https://www.linkedin.com/in/alexandria-morgan-252a8b29a/
